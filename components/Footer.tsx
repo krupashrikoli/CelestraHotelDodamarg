@@ -159,17 +159,17 @@ export function Footer({ className }: { className?: string }) {
             >
               <a
                 href={SAMRAYA_SITE}
-                className="flex h-7 max-w-[7.5rem] shrink-0 items-center opacity-65 transition-opacity duration-300 touch-manipulation hover:opacity-90 sm:h-9 sm:max-w-[9rem] md:h-10 md:max-w-[10rem]"
+                className="flex h-6 max-w-[9.5rem] shrink-0 items-center opacity-65 transition-opacity duration-300 touch-manipulation hover:opacity-90 sm:h-7 sm:max-w-[11.5rem] md:h-8 md:max-w-[13rem]"
                 aria-label="Samrāya by GHD Hotels"
                 rel="noopener noreferrer"
               >
                 <Image
                   src={SAMRAYA_HOTEL_LOGO}
-                  alt="Samrāya — A unit of GHD Hotels"
-                  width={2171}
-                  height={724}
+                  alt="Samrāya Lifestyle & Wellness Resort"
+                  width={3085}
+                  height={565}
                   className="h-full w-auto max-w-full object-contain object-center"
-                  sizes="(max-width: 640px) 120px, 160px"
+                  sizes="(max-width: 640px) 152px, 208px"
                 />
               </a>
 
